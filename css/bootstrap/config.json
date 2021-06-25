@@ -1,0 +1,12 @@
+{
+  "vars": {
+    "@grid-gutter-width": "16px",
+    "@container-large-desktop": "1140 + @grid-gutter-width"
+  },
+  "css": [
+    "grid.less",
+    "responsive-utilities.less",
+    "navs.less"
+  ],
+  "js": []
+}
